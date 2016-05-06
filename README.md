@@ -1,20 +1,12 @@
 # Bastion
 
-**TODO: Add description**
+Example of a Facebook Messenger bot built using Elixir.
 
-## Installation
+[Read the blog post][1]
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed as:
 
-  1. Add bastion to your list of dependencies in `mix.exs`:
+## LICENSE
 
-        def deps do
-          [{:bastion, "~> 0.0.1"}]
-        end
+See [LICENSE](LICENSE).
 
-  2. Ensure bastion is started before your application:
-
-        def application do
-          [applications: [:bastion]]
-        end
-
+[1]: http://cazrin.net/blog/2016/building-a-bot-for-facebook-messenger-using-elixir/
